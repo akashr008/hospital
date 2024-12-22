@@ -1,0 +1,40 @@
+{
+  "hospitals": [
+    {
+      "id": 1,
+      "name": "Azeezia",
+      "patientCount": 1,
+      "location": "kollam"
+    },
+    {
+      "id": 2,
+      "name": "Naveen hospital",
+      "patientCount": 2,
+      "location": "kollam"
+    },
+    {
+      "id": 3,
+      "name": "KIMS",
+      "patientCount": 3,
+      "location": "Kollam"
+    },
+    {
+      "id": 4,
+      "name": "SN",
+      "patientCount": 4,
+      "location": "Kollam"
+    },
+    {
+      "id": 5,
+      "name": "Medical college",
+      "patientCount": 5,
+      "location": "Kollam"
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    }
+  ]
+}
